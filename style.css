@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 1.6rem;
+  background-color: #000;
+
+}
+.rowSize {
+  width: 100vw;
+  height: 100vh;
+}
+.rectangle {
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #95989a;
+}
+h3 {
+  color: #fff;
+  font-size: 20pt;
+  font-family: 'Times New Roman', serif;
+}
